@@ -104,6 +104,5 @@ This space is open for collaboration within the Kunumi Institute and the broader
   <p>
     <b>Eduardo "Du" Moura</b><br>
     Research Engineer @ Kunumi | Aikidoka | Bassist<br><br>
-    <i>"Converting the entropy of vibrant minds into high output power."</i>
   </p>
 </div>
